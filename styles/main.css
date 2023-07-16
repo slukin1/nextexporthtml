@@ -186,3 +186,20 @@ h1 {
 .button-github {
   background: #393939;
 }
+
+
+
+
+
+
+
+
+
+
+
+header {
+    box-sizing: border-box;
+}
+header, hgroup, menu, nav, section {
+    display: block;
+}
