@@ -1,5 +1,5 @@
 const ColorHeaderTop = () => {
-  return <div className="ColorHeaderTop" />;
+  return <div className="colorheadertop" />;
 };
 
 export default ColorHeaderTop;
