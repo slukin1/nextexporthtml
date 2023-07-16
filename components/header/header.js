@@ -4,6 +4,7 @@ import Link from 'next/link';
 
 const Header = () => (
   <header className="main">
+  <ColorHeaderTop>
     <ul>
       <li>
         <Link href="/">Home</Link>
@@ -28,6 +29,7 @@ const Header = () => (
         </Link>
       </li>
     </ul>
+            </ColorHeaderTop >
   </header>
 );
 
