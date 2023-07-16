@@ -1,3 +1,5 @@
+import ColorHeaderTop from '../components/header/colorheadertop';
+
 import Link from 'next/link';
 
 const Header = () => (
