@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 const Header = () => (
-  <header>
+  <header className="main">
     <ul>
       <li>
         <Link href="/">Home</Link>
