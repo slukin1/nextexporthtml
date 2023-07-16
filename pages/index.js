@@ -1,5 +1,5 @@
 import SmallCard from '../components/SmallCard';
-import Header from '../components/header/header'
+import Header from '../components/header/header';
 
 import { projectIcons } from '../components/Icons';
 import { projects } from '../utils/projectsData';
