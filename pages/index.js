@@ -6,7 +6,7 @@ import { projects } from '../utils/projectsData';
 
 const Home = () => (
   <div className="home">
-  <Header />
+    <Header />
     <h1>What Can I Deploy to Static Apps?</h1>
     <div className="card-grid">
       {projects.map((project) => {
