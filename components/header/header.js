@@ -1,4 +1,4 @@
-import ColorHeaderTop from '../components/header/colorheadertop';
+import ColorHeaderTop from '../../components/header/colorheadertop';
 
 import Link from 'next/link';
 
