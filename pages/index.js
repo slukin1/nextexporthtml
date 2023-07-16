@@ -1,10 +1,13 @@
 import SmallCard from '../components/SmallCard';
+import Header from '../components/header'
+
 import { projectIcons } from '../components/Icons';
 
 import { projects } from '../utils/projectsData';
 
 const Home = () => (
   <div className="home">
+  <Header />
     <h1>What Can I Deploy to Static Apps?</h1>
     <div className="card-grid">
       {projects.map((project) => {
